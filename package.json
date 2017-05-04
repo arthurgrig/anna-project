@@ -1,0 +1,25 @@
+{
+  "name": "anna-project",
+  "version": "1.0.0",
+  "description": "Anna's Thesis project for geolocation/demographics  market research",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurgrig/anna-project.git"
+  },
+  "keywords": [
+    "elastic",
+    "kibana",
+    "geomapping",
+    "marketresearch"
+  ],
+  "author": "Anna Grigoryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurgrig/anna-project/issues"
+  },
+  "homepage": "https://github.com/arthurgrig/anna-project#readme"
+}
