@@ -36,7 +36,7 @@ jsonfile.readFile(file, function(err, objects) {
 
   client.bulk(data, function(err, response) {
     if (err) {
-      util.puts("Failed Bulk operation".red, err)
+      console.error("Failed Bulk operation".red, err)
     } else {
       console.log("Successfull Twitter update: %s tweets".green, data.length);
     }
