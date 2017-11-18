@@ -1,0 +1,3537 @@
+[
+ {
+   "ZIP Code": 90001,
+   "City": "Los Angeles",
+   "Population": "57,239",
+   "Households": "12,971",
+   "AVG Income": "$33,887"
+ },
+ {
+   "ZIP Code": 90002,
+   "City": "Los Angeles",
+   "Population": "52,668",
+   "Households": "11,731",
+   "AVG Income": "$30,413"
+ },
+ {
+   "ZIP Code": 90003,
+   "City": "Los Angeles",
+   "Population": "73,879",
+   "Households": "15,642",
+   "AVG Income": "$30,805"
+ },
+ {
+   "ZIP Code": 90004,
+   "City": "Los Angeles",
+   "Population": "64,529",
+   "Households": "22,547",
+   "AVG Income": "$40,612"
+ },
+ {
+   "ZIP Code": 90005,
+   "City": "Los Angeles",
+   "Population": "42,702",
+   "Households": "15,044",
+   "AVG Income": "$31,142"
+ },
+ {
+   "ZIP Code": 90006,
+   "City": "Los Angeles",
+   "Population": "62,058",
+   "Households": "18,617",
+   "AVG Income": "$31,521"
+ },
+ {
+   "ZIP Code": 90007,
+   "City": "Los Angeles",
+   "Population": "40,677",
+   "Households": "11,944",
+   "AVG Income": "$22,304"
+ },
+ {
+   "ZIP Code": 90008,
+   "City": "Los Angeles",
+   "Population": "34,125",
+   "Households": "13,841",
+   "AVG Income": "$36,564"
+ },
+ {
+   "ZIP Code": 90009,
+   "City": "",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90010,
+   "City": "Los Angeles",
+   "Population": "2,889",
+   "Households": "2,014",
+   "AVG Income": "$45,786"
+ },
+ {
+   "ZIP Code": 90011,
+   "City": "Los Angeles",
+   "Population": "109,688",
+   "Households": "22,168",
+   "AVG Income": "$30,251"
+ },
+ {
+   "ZIP Code": 90012,
+   "City": "Los Angeles",
+   "Population": "28,397",
+   "Households": "10,327",
+   "AVG Income": "$31,576"
+ },
+ {
+   "ZIP Code": 90013,
+   "City": "Los Angeles",
+   "Population": "8,104",
+   "Households": "6,416",
+   "AVG Income": "$19,887"
+ },
+ {
+   "ZIP Code": 90014,
+   "City": "Los Angeles",
+   "Population": "6,273",
+   "Households": "4,109",
+   "AVG Income": "$23,642"
+ },
+ {
+   "ZIP Code": 90015,
+   "City": "Los Angeles",
+   "Population": "24,289",
+   "Households": "7,420",
+   "AVG Income": "$29,684"
+ },
+ {
+   "ZIP Code": 90016,
+   "City": "Los Angeles",
+   "Population": "49,965",
+   "Households": "16,145",
+   "AVG Income": "$38,330"
+ },
+ {
+   "ZIP Code": 90017,
+   "City": "Los Angeles",
+   "Population": "29,833",
+   "Households": "9,338",
+   "AVG Income": "$22,754"
+ },
+ {
+   "ZIP Code": 90018,
+   "City": "Los Angeles",
+   "Population": "52,085",
+   "Households": "15,493",
+   "AVG Income": "$33,864"
+ },
+ {
+   "ZIP Code": 90019,
+   "City": "Los Angeles",
+   "Population": "66,320",
+   "Households": "23,344",
+   "AVG Income": "$46,571"
+ },
+ {
+   "ZIP Code": 90020,
+   "City": "Los Angeles",
+   "Population": "43,230",
+   "Households": "16,514",
+   "AVG Income": "$38,849"
+ },
+ {
+   "ZIP Code": 90021,
+   "City": "Los Angeles",
+   "Population": "1,987",
+   "Households": "1,561",
+   "AVG Income": "$12,813"
+ },
+ {
+   "ZIP Code": 90022,
+   "City": "Los Angeles",
+   "Population": "66,723",
+   "Households": "17,023",
+   "AVG Income": "$37,916"
+ },
+ {
+   "ZIP Code": 90023,
+   "City": "Los Angeles",
+   "Population": "48,444",
+   "Households": "10,727",
+   "AVG Income": "$35,736"
+ },
+ {
+   "ZIP Code": 90024,
+   "City": "Los Angeles",
+   "Population": "38,927",
+   "Households": "17,903",
+   "AVG Income": "$57,202"
+ },
+ {
+   "ZIP Code": 90025,
+   "City": "Los Angeles",
+   "Population": "45,479",
+   "Households": "21,228",
+   "AVG Income": "$71,183"
+ },
+ {
+   "ZIP Code": 90026,
+   "City": "Los Angeles",
+   "Population": "70,623",
+   "Households": "24,956",
+   "AVG Income": "$47,993"
+ },
+ {
+   "ZIP Code": 90027,
+   "City": "Los Angeles",
+   "Population": "46,562",
+   "Households": "21,929",
+   "AVG Income": "$51,595"
+ },
+ {
+   "ZIP Code": 90028,
+   "City": "Los Angeles",
+   "Population": "34,619",
+   "Households": "14,964",
+   "AVG Income": "$33,582"
+ },
+ {
+   "ZIP Code": 90029,
+   "City": "Los Angeles",
+   "Population": "38,788",
+   "Households": "13,883",
+   "AVG Income": "$33,912"
+ },
+ {
+   "ZIP Code": 90030,
+   "City": "",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90031,
+   "City": "Los Angeles",
+   "Population": "40,180",
+   "Households": "11,156",
+   "AVG Income": "$34,994"
+ },
+ {
+   "ZIP Code": 90032,
+   "City": "Los Angeles",
+   "Population": "46,812",
+   "Households": "12,765",
+   "AVG Income": "$45,457"
+ },
+ {
+   "ZIP Code": 90033,
+   "City": "Los Angeles",
+   "Population": "47,598",
+   "Households": "12,924",
+   "AVG Income": "$27,622"
+ },
+ {
+   "ZIP Code": 90034,
+   "City": "Los Angeles",
+   "Population": "60,513",
+   "Households": "25,592",
+   "AVG Income": "$58,004"
+ },
+ {
+   "ZIP Code": 90035,
+   "City": "Los Angeles",
+   "Population": "29,398",
+   "Households": "12,814",
+   "AVG Income": "$73,794"
+ },
+ {
+   "ZIP Code": 90036,
+   "City": "Los Angeles",
+   "Population": "40,536",
+   "Households": "18,646",
+   "AVG Income": "$69,894"
+ },
+ {
+   "ZIP Code": 90037,
+   "City": "Los Angeles",
+   "Population": "66,716",
+   "Households": "15,869",
+   "AVG Income": "$27,179"
+ },
+ {
+   "ZIP Code": 90038,
+   "City": "Los Angeles",
+   "Population": "31,173",
+   "Households": "11,928",
+   "AVG Income": "$33,800"
+ },
+ {
+   "ZIP Code": 90039,
+   "City": "Los Angeles",
+   "Population": "29,588",
+   "Households": "11,436",
+   "AVG Income": "$70,560"
+ },
+ {
+   "ZIP Code": 90040,
+   "City": "Los Angeles",
+   "Population": "12,442",
+   "Households": "3,317",
+   "AVG Income": "$44,964"
+ },
+ {
+   "ZIP Code": 90041,
+   "City": "Los Angeles",
+   "Population": "26,154",
+   "Households": "9,513",
+   "AVG Income": "$63,358"
+ },
+ {
+   "ZIP Code": 90042,
+   "City": "Los Angeles",
+   "Population": "63,646",
+   "Households": "19,892",
+   "AVG Income": "$49,630"
+ },
+ {
+   "ZIP Code": 90043,
+   "City": "Los Angeles",
+   "Population": "45,901",
+   "Households": "16,075",
+   "AVG Income": "$38,180"
+ },
+ {
+   "ZIP Code": 90044,
+   "City": "Los Angeles",
+   "Population": "95,349",
+   "Households": "25,144",
+   "AVG Income": "$29,206"
+ },
+ {
+   "ZIP Code": 90045,
+   "City": "Los Angeles",
+   "Population": "38,289",
+   "Households": "15,224",
+   "AVG Income": "$75,684"
+ },
+ {
+   "ZIP Code": 90046,
+   "City": "Los Angeles",
+   "Population": "51,423",
+   "Households": "28,534",
+   "AVG Income": "$57,941"
+ },
+ {
+   "ZIP Code": 90047,
+   "City": "Los Angeles",
+   "Population": "50,091",
+   "Households": "16,168",
+   "AVG Income": "$39,269"
+ },
+ {
+   "ZIP Code": 90048,
+   "City": "Los Angeles",
+   "Population": "23,144",
+   "Households": "11,821",
+   "AVG Income": "$78,940"
+ },
+ {
+   "ZIP Code": 90049,
+   "City": "Los Angeles",
+   "Population": "37,089",
+   "Households": "16,657",
+   "AVG Income": "$115,629"
+ },
+ {
+   "ZIP Code": 90050,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90051,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90052,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90053,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90054,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90055,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90056,
+   "City": "Los Angeles",
+   "Population": "8,268",
+   "Households": "3,371",
+   "AVG Income": "$84,099"
+ },
+ {
+   "ZIP Code": 90057,
+   "City": "Los Angeles",
+   "Population": "46,308",
+   "Households": "15,658",
+   "AVG Income": "$27,890"
+ },
+ {
+   "ZIP Code": 90058,
+   "City": "Los Angeles",
+   "Population": "3,538",
+   "Households": "892",
+   "AVG Income": "$17,018"
+ },
+ {
+   "ZIP Code": 90059,
+   "City": "Los Angeles",
+   "Population": "42,231",
+   "Households": "9,596",
+   "AVG Income": "$32,506"
+ },
+ {
+   "ZIP Code": 90060,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90061,
+   "City": "Los Angeles",
+   "Population": "29,059",
+   "Households": "6,892",
+   "AVG Income": "$33,731"
+ },
+ {
+   "ZIP Code": 90062,
+   "City": "Los Angeles",
+   "Population": "33,384",
+   "Households": "9,155",
+   "AVG Income": "$34,588"
+ },
+ {
+   "ZIP Code": 90063,
+   "City": "Los Angeles",
+   "Population": "54,964",
+   "Households": "13,260",
+   "AVG Income": "$40,006"
+ },
+ {
+   "ZIP Code": 90064,
+   "City": "Los Angeles",
+   "Population": "27,054",
+   "Households": "10,968",
+   "AVG Income": "$87,283"
+ },
+ {
+   "ZIP Code": 90065,
+   "City": "Los Angeles",
+   "Population": "47,146",
+   "Households": "14,476",
+   "AVG Income": "$54,078"
+ },
+ {
+   "ZIP Code": 90066,
+   "City": "Los Angeles",
+   "Population": "57,985",
+   "Households": "23,985",
+   "AVG Income": "$68,132"
+ },
+ {
+   "ZIP Code": 90067,
+   "City": "Los Angeles",
+   "Population": "3,028",
+   "Households": "1,510",
+   "AVG Income": "$97,891"
+ },
+ {
+   "ZIP Code": 90068,
+   "City": "Los Angeles",
+   "Population": "24,710",
+   "Households": "12,326",
+   "AVG Income": "$73,693"
+ },
+ {
+   "ZIP Code": 90069,
+   "City": "West Hollywood",
+   "Population": "22,478",
+   "Households": "13,364",
+   "AVG Income": "$78,979"
+ },
+ {
+   "ZIP Code": 90070,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90071,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90072,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90073,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90074,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90075,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90076,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90077,
+   "City": "Los Angeles",
+   "Population": "10,015",
+   "Households": "9,377",
+   "AVG Income": "$164,281"
+ },
+ {
+   "ZIP Code": 90078,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90079,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90080,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90081,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90082,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90083,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90084,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90086,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90087,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90088,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90089,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90090,
+   "City": "Dodgertown",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90091,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90093,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90094,
+   "City": "Playa Vista",
+   "Population": "10,199",
+   "Households": "2,949",
+   "AVG Income": "$104,367"
+ },
+ {
+   "ZIP Code": 90095,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90096,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90099,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90189,
+   "City": "Los Angeles",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90201,
+   "City": "Bell Gardesns",
+   "Population": "102,128",
+   "Households": "24,104",
+   "AVG Income": "$37,254"
+ },
+ {
+   "ZIP Code": 90202,
+   "City": "Bell",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90209,
+   "City": "Beverly Hills",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90210,
+   "City": "Beverly Hills",
+   "Population": "23,577",
+   "Households": "8,669",
+   "AVG Income": "$145,227"
+ },
+ {
+   "ZIP Code": 90211,
+   "City": "Beverly Hills",
+   "Population": "9,156",
+   "Households": "3,706",
+   "AVG Income": "$69,638"
+ },
+ {
+   "ZIP Code": 90212,
+   "City": "Beverly Hills",
+   "Population": "12,602",
+   "Households": "5,567",
+   "AVG Income": "$92,476"
+ },
+ {
+   "ZIP Code": 90213,
+   "City": "Beverly Hills",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90220,
+   "City": "Compton",
+   "Population": "50,947",
+   "Households": "12,741",
+   "AVG Income": "$47,882"
+ },
+ {
+   "ZIP Code": 90221,
+   "City": "Compton",
+   "Population": "53,971",
+   "Households": "11,630",
+   "AVG Income": "$41,960"
+ },
+ {
+   "ZIP Code": 90222,
+   "City": "Compton",
+   "Population": "31,789",
+   "Households": "7,520",
+   "AVG Income": "$37,881"
+ },
+ {
+   "ZIP Code": 90223,
+   "City": "Compton",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90224,
+   "City": "Compton",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90230,
+   "City": "Culver City",
+   "Population": "32,001",
+   "Households": "12,883",
+   "AVG Income": "$74,823"
+ },
+ {
+   "ZIP Code": 90231,
+   "City": "Culver City",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90232,
+   "City": "Culver City",
+   "Population": "15,816",
+   "Households": "6,605",
+   "AVG Income": "$77,004"
+ },
+ {
+   "ZIP Code": 90233,
+   "City": "Culver City",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90239,
+   "City": "Downey",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90240,
+   "City": "Downey",
+   "Population": "26,365",
+   "Households": "7,632",
+   "AVG Income": "$76,907"
+ },
+ {
+   "ZIP Code": 90241,
+   "City": "Downey",
+   "Population": "44,619",
+   "Households": "13,617",
+   "AVG Income": "$57,372"
+ },
+ {
+   "ZIP Code": 90242,
+   "City": "Downey",
+   "Population": "42,928",
+   "Households": "12,687",
+   "AVG Income": "$58,669"
+ },
+ {
+   "ZIP Code": 90245,
+   "City": "El Segundo",
+   "Population": "17,133",
+   "Households": "7,085",
+   "AVG Income": "$85,727"
+ },
+ {
+   "ZIP Code": 90247,
+   "City": "Gardena",
+   "Population": "49,204",
+   "Households": "15,830",
+   "AVG Income": "$42,926"
+ },
+ {
+   "ZIP Code": 90248,
+   "City": "Gardena",
+   "Population": "10,421",
+   "Households": "3,427",
+   "AVG Income": "$53,306"
+ },
+ {
+   "ZIP Code": 90249,
+   "City": "Gardena",
+   "Population": "26,894",
+   "Households": "8,880",
+   "AVG Income": "$51,181"
+ },
+ {
+   "ZIP Code": 90250,
+   "City": "Hawthorne",
+   "Population": "99,213",
+   "Households": "31,087",
+   "AVG Income": "$46,172"
+ },
+ {
+   "ZIP Code": 90251,
+   "City": "Hawthorne",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90254,
+   "City": "Hermosa Beach",
+   "Population": "20,310",
+   "Households": "9,550",
+   "AVG Income": "$111,187"
+ },
+ {
+   "ZIP Code": 90255,
+   "City": "Huntington Park",
+   "Population": "74,699",
+   "Households": "18,419",
+   "AVG Income": "$35,917"
+ },
+ {
+   "ZIP Code": 90260,
+   "City": "Lawndale",
+   "Population": "34,895",
+   "Households": "10,429",
+   "AVG Income": "$51,648"
+ },
+ {
+   "ZIP Code": 90261,
+   "City": "Lawndale",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90262,
+   "City": "Lynwood",
+   "Population": "68,175",
+   "Households": "14,669",
+   "AVG Income": "$43,231"
+ },
+ {
+   "ZIP Code": 90263,
+   "City": "Malibu",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90264,
+   "City": "Malibu",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90265,
+   "City": "Malibu",
+   "Population": "19,526",
+   "Households": "7,174",
+   "AVG Income": "$123,681"
+ },
+ {
+   "ZIP Code": 90266,
+   "City": "Manhattan Beach",
+   "Population": "36,447",
+   "Households": "14,038",
+   "AVG Income": "$143,527"
+ },
+ {
+   "ZIP Code": 90267,
+   "City": "Manhattan Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90270,
+   "City": "Maywood",
+   "Population": "26,474",
+   "Households": "6,554",
+   "AVG Income": "$35,532"
+ },
+ {
+   "ZIP Code": 90272,
+   "City": "Pacific Palisades",
+   "Population": "23,381",
+   "Households": "9,212",
+   "AVG Income": "$166,021"
+ },
+ {
+   "ZIP Code": 90274,
+   "City": "Palos Verdes Peninsula",
+   "Population": "26,166",
+   "Households": "9,479",
+   "AVG Income": "$157,465"
+ },
+ {
+   "ZIP Code": 90275,
+   "City": "Rancho Palos Verdes",
+   "Population": "42,983",
+   "Households": "15,618",
+   "AVG Income": "$118,790"
+ },
+ {
+   "ZIP Code": 90277,
+   "City": "Redondo Beach",
+   "Population": "36,963",
+   "Households": "16,910",
+   "AVG Income": "$100,080"
+ },
+ {
+   "ZIP Code": 90278,
+   "City": "Redondo Beach",
+   "Population": "41,423",
+   "Households": "16,009",
+   "AVG Income": "$107,010"
+ },
+ {
+   "ZIP Code": 90280,
+   "City": "South Gate",
+   "Population": "97,090",
+   "Households": "23,278",
+   "AVG Income": "$43,552"
+ },
+ {
+   "ZIP Code": 90290,
+   "City": "Topanga",
+   "Population": "5,797",
+   "Households": "2,612",
+   "AVG Income": "$99,505"
+ },
+ {
+   "ZIP Code": 90291,
+   "City": "Venice",
+   "Population": "30,322",
+   "Households": "14,261",
+   "AVG Income": "$80,111"
+ },
+ {
+   "ZIP Code": 90292,
+   "City": "Marina Del Rey",
+   "Population": "25,916",
+   "Households": "12,654",
+   "AVG Income": "$100,507"
+ },
+ {
+   "ZIP Code": 90293,
+   "City": "Playa Del Rey",
+   "Population": "12,555",
+   "Households": "6,575",
+   "AVG Income": "$82,055"
+ },
+ {
+   "ZIP Code": 90294,
+   "City": "Venice",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90295,
+   "City": "Marina Del Rey",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90296,
+   "City": "Playa Del Rey",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90301,
+   "City": "Inglewood",
+   "Population": "38,600",
+   "Households": "11,895",
+   "AVG Income": "$37,424"
+ },
+ {
+   "ZIP Code": 90302,
+   "City": "Inglewood",
+   "Population": "30,923",
+   "Households": "10,684",
+   "AVG Income": "$41,426"
+ },
+ {
+   "ZIP Code": 90303,
+   "City": "Inglewood",
+   "Population": "26,749",
+   "Households": "7,290",
+   "AVG Income": "$39,671"
+ },
+ {
+   "ZIP Code": 90305,
+   "City": "Inglewood",
+   "Population": "15,010",
+   "Households": "5,933",
+   "AVG Income": "$65,633"
+ },
+ {
+   "ZIP Code": 90306,
+   "City": "Inglewood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90307,
+   "City": "Inglewood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90308,
+   "City": "Inglewood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90309,
+   "City": "Inglewood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90310,
+   "City": "Inglewood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90311,
+   "City": "Inglewood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90312,
+   "City": "Inglewood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90401,
+   "City": "Santa Monica",
+   "Population": "8,574",
+   "Households": "4,188",
+   "AVG Income": "$62,703"
+ },
+ {
+   "ZIP Code": 90402,
+   "City": "Santa Monica",
+   "Population": "12,688",
+   "Households": "5,301",
+   "AVG Income": "$134,638"
+ },
+ {
+   "ZIP Code": 90403,
+   "City": "Santa Monica",
+   "Population": "25,825",
+   "Households": "13,970",
+   "AVG Income": "$78,151"
+ },
+ {
+   "ZIP Code": 90404,
+   "City": "Santa Monica",
+   "Population": "21,559",
+   "Households": "10,089",
+   "AVG Income": "$66,623"
+ },
+ {
+   "ZIP Code": 90405,
+   "City": "Santa Monica",
+   "Population": "28,438",
+   "Households": "14,376",
+   "AVG Income": "$77,948"
+ },
+ {
+   "ZIP Code": 90406,
+   "City": "Santa Monica",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90407,
+   "City": "Santa Monica",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90408,
+   "City": "Santa Monica",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90409,
+   "City": "Santa Monica",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90410,
+   "City": "Santa Monica",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90411,
+   "City": "Santa Monica",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90501,
+   "City": "Torrance",
+   "Population": "44,726",
+   "Households": "14,610",
+   "AVG Income": "$61,536"
+ },
+ {
+   "ZIP Code": 90502,
+   "City": "Torrance",
+   "Population": "18,307",
+   "Households": "5,717",
+   "AVG Income": "$64,232"
+ },
+ {
+   "ZIP Code": 90503,
+   "City": "Torrance",
+   "Population": "44,999",
+   "Households": "17,183",
+   "AVG Income": "$76,431"
+ },
+ {
+   "ZIP Code": 90504,
+   "City": "Torrance",
+   "Population": "32,808",
+   "Households": "11,580",
+   "AVG Income": "$73,380"
+ },
+ {
+   "ZIP Code": 90505,
+   "City": "Torrance",
+   "Population": "37,112",
+   "Households": "14,244",
+   "AVG Income": "$86,588"
+ },
+ {
+   "ZIP Code": 90506,
+   "City": "Torrance",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90507,
+   "City": "Torrance",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90508,
+   "City": "Torrance",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90509,
+   "City": "Torrance",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90510,
+   "City": "Torrance",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90601,
+   "City": "Whittier",
+   "Population": "32,226",
+   "Households": "11,027",
+   "AVG Income": "$71,366"
+ },
+ {
+   "ZIP Code": 90602,
+   "City": "Whittier",
+   "Population": "25,779",
+   "Households": "7,980",
+   "AVG Income": "$48,109"
+ },
+ {
+   "ZIP Code": 90603,
+   "City": "Whittier",
+   "Population": "20,260",
+   "Households": "6,788",
+   "AVG Income": "$88,862"
+ },
+ {
+   "ZIP Code": 90604,
+   "City": "Whittier",
+   "Population": "40,568",
+   "Households": "11,932",
+   "AVG Income": "$65,295"
+ },
+ {
+   "ZIP Code": 90605,
+   "City": "Whittier",
+   "Population": "40,104",
+   "Households": "10,527",
+   "AVG Income": "$65,952"
+ },
+ {
+   "ZIP Code": 90606,
+   "City": "Whittier",
+   "Population": "32,691",
+   "Households": "8,633",
+   "AVG Income": "$64,393"
+ },
+ {
+   "ZIP Code": 90607,
+   "City": "Whittier",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90608,
+   "City": "Whittier",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90609,
+   "City": "Whittier",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90610,
+   "City": "Whittier",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90637,
+   "City": "La Mirada",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90638,
+   "City": "La Mirada",
+   "Population": "46,712",
+   "Households": "14,821",
+   "AVG Income": "$78,373"
+ },
+ {
+   "ZIP Code": 90639,
+   "City": "La Mirada",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90640,
+   "City": "Montebello",
+   "Population": "63,997",
+   "Households": "19,027",
+   "AVG Income": "$45,898"
+ },
+ {
+   "ZIP Code": 90650,
+   "City": "Norwalk",
+   "Population": "104,662",
+   "Households": "27,130",
+   "AVG Income": "$59,756"
+ },
+ {
+   "ZIP Code": 90651,
+   "City": "Norwalk",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90652,
+   "City": "Norwalk",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90660,
+   "City": "Pico Rivera",
+   "Population": "61,639",
+   "Households": "16,564",
+   "AVG Income": "$55,758"
+ },
+ {
+   "ZIP Code": 90661,
+   "City": "Pico Rivera",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90662,
+   "City": "Pico Rivera",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90670,
+   "City": "Santa Fe Springs",
+   "Population": "16,850",
+   "Households": "4,393",
+   "AVG Income": "$54,674"
+ },
+ {
+   "ZIP Code": 90671,
+   "City": "Santa Fe Springs",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90701,
+   "City": "Artesia",
+   "Population": "16,124",
+   "Households": "4,553",
+   "AVG Income": "$60,749"
+ },
+ {
+   "ZIP Code": 90702,
+   "City": "Artesia",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90703,
+   "City": "Cerritos",
+   "Population": "50,351",
+   "Households": "15,604",
+   "AVG Income": "$89,720"
+ },
+ {
+   "ZIP Code": 90704,
+   "City": "Avalon",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90706,
+   "City": "Bellflower",
+   "Population": "78,606",
+   "Households": "23,650",
+   "AVG Income": "$48,823"
+ },
+ {
+   "ZIP Code": 90707,
+   "City": "Bellflower",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90710,
+   "City": "Harbor City",
+   "Population": "25,965",
+   "Households": "8,717",
+   "AVG Income": "$52,294"
+ },
+ {
+   "ZIP Code": 90711,
+   "City": "Lakewood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90712,
+   "City": "Lakewood",
+   "Population": "31,809",
+   "Households": "10,794",
+   "AVG Income": "$80,150"
+ },
+ {
+   "ZIP Code": 90713,
+   "City": "Lakewood",
+   "Population": "28,765",
+   "Households": "9,447",
+   "AVG Income": "$86,543"
+ },
+ {
+   "ZIP Code": 90714,
+   "City": "Lakewood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90715,
+   "City": "Lakewood",
+   "Population": "21,278",
+   "Households": "6,105",
+   "AVG Income": "$63,604"
+ },
+ {
+   "ZIP Code": 90716,
+   "City": "Hawaiian Gardens",
+   "Population": "14,499",
+   "Households": "3,515",
+   "AVG Income": "$37,543"
+ },
+ {
+   "ZIP Code": 90723,
+   "City": "Paramount",
+   "Population": "55,282",
+   "Households": "13,882",
+   "AVG Income": "$45,792"
+ },
+ {
+   "ZIP Code": 90731,
+   "City": "San Pedro",
+   "Population": "61,025",
+   "Households": "22,044",
+   "AVG Income": "$50,879"
+ },
+ {
+   "ZIP Code": 90732,
+   "City": "San Pedro",
+   "Population": "20,872",
+   "Households": "8,611",
+   "AVG Income": "$84,679"
+ },
+ {
+   "ZIP Code": 90733,
+   "City": "San Pedro",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90734,
+   "City": "San Pedro",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90744,
+   "City": "Wilmington",
+   "Population": "54,363",
+   "Households": "13,999",
+   "AVG Income": "$41,569"
+ },
+ {
+   "ZIP Code": 90745,
+   "City": "Carson",
+   "Population": "59,739",
+   "Households": "15,210",
+   "AVG Income": "$71,443"
+ },
+ {
+   "ZIP Code": 90746,
+   "City": "Carson",
+   "Population": "26,071",
+   "Households": "8,050",
+   "AVG Income": "$77,260"
+ },
+ {
+   "ZIP Code": 90747,
+   "City": "Carson",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90748,
+   "City": "Wilmington",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90749,
+   "City": "Carson",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90755,
+   "City": "Signal Hill",
+   "Population": "11,803",
+   "Households": "4,172",
+   "AVG Income": "$65,935"
+ },
+ {
+   "ZIP Code": 90801,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90802,
+   "City": "Long Beach",
+   "Population": "43,590",
+   "Households": "19,853",
+   "AVG Income": "$42,829"
+ },
+ {
+   "ZIP Code": 90803,
+   "City": "Long Beach",
+   "Population": "33,252",
+   "Households": "17,318",
+   "AVG Income": "$75,197"
+ },
+ {
+   "ZIP Code": 90804,
+   "City": "Long Beach",
+   "Population": "41,561",
+   "Households": "14,556",
+   "AVG Income": "$44,877"
+ },
+ {
+   "ZIP Code": 90805,
+   "City": "Long Beach",
+   "Population": "96,276",
+   "Households": "26,056",
+   "AVG Income": "$44,815"
+ },
+ {
+   "ZIP Code": 90806,
+   "City": "Long Beach",
+   "Population": "43,987",
+   "Households": "12,184",
+   "AVG Income": "$44,144"
+ },
+ {
+   "ZIP Code": 90807,
+   "City": "Long Beach",
+   "Population": "31,446",
+   "Households": "12,452",
+   "AVG Income": "$72,010"
+ },
+ {
+   "ZIP Code": 90808,
+   "City": "Long Beach",
+   "Population": "38,986",
+   "Households": "14,167",
+   "AVG Income": "$96,360"
+ },
+ {
+   "ZIP Code": 90809,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90810,
+   "City": "Long Beach",
+   "Population": "38,598",
+   "Households": "9,289",
+   "AVG Income": "$49,517"
+ },
+ {
+   "ZIP Code": 90813,
+   "City": "Long Beach",
+   "Population": "63,654",
+   "Households": "16,425",
+   "AVG Income": "$30,936"
+ },
+ {
+   "ZIP Code": 90814,
+   "City": "Long Beach",
+   "Population": "19,576",
+   "Households": "9,170",
+   "AVG Income": "$55,116"
+ },
+ {
+   "ZIP Code": 90815,
+   "City": "Long Beach",
+   "Population": "38,982",
+   "Households": "14,836",
+   "AVG Income": "$78,137"
+ },
+ {
+   "ZIP Code": 90822,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90831,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90832,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90833,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90834,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90835,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90840,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90842,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90844,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90846,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90847,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90848,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90849,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90850,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90851,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90852,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90853,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90895,
+   "City": "Carson",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 90899,
+   "City": "Long Beach",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91001,
+   "City": "Altadena",
+   "Population": "36,362",
+   "Households": "12,663",
+   "AVG Income": "$86,310"
+ },
+ {
+   "ZIP Code": 91003,
+   "City": "Altadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91006,
+   "City": "Arcadia",
+   "Population": "32,422",
+   "Households": "10,652",
+   "AVG Income": "$83,986"
+ },
+ {
+   "ZIP Code": 91007,
+   "City": "Arcadia",
+   "Population": "32,118",
+   "Households": "12,033",
+   "AVG Income": "$71,557"
+ },
+ {
+   "ZIP Code": 91008,
+   "City": "Duarte",
+   "Population": "1,037",
+   "Households": "562",
+   "AVG Income": "$90,000"
+ },
+ {
+   "ZIP Code": 91009,
+   "City": "Duarte",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91010,
+   "City": "Duarte",
+   "Population": "25,859",
+   "Households": "7,972",
+   "AVG Income": "$60,793"
+ },
+ {
+   "ZIP Code": 91011,
+   "City": "La Canada Flintridge",
+   "Population": "20,765",
+   "Households": "6,859",
+   "AVG Income": "$156,933"
+ },
+ {
+   "ZIP Code": 91012,
+   "City": "La Canada Flintridge",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91016,
+   "City": "Monrovia",
+   "Population": "41,993",
+   "Households": "15,029",
+   "AVG Income": "$70,307"
+ },
+ {
+   "ZIP Code": 91017,
+   "City": "Monrovia",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91020,
+   "City": "Montrose",
+   "Population": "7,999",
+   "Households": "3,385",
+   "AVG Income": "$69,067"
+ },
+ {
+   "ZIP Code": 91021,
+   "City": "Montrose",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91023,
+   "City": "Mount Wilson",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91024,
+   "City": "Sierra Madre",
+   "Population": "11,121",
+   "Households": "4,837",
+   "AVG Income": "$92,384"
+ },
+ {
+   "ZIP Code": 91025,
+   "City": "Sierra Madre",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91030,
+   "City": "South Pasadena",
+   "Population": "26,112",
+   "Households": "10,466",
+   "AVG Income": "$79,089"
+ },
+ {
+   "ZIP Code": 91031,
+   "City": "South Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91040,
+   "City": "Sunland",
+   "Population": "21,050",
+   "Households": "7,359",
+   "AVG Income": "$71,411"
+ },
+ {
+   "ZIP Code": 91041,
+   "City": "Sunland",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91042,
+   "City": "Tujunga",
+   "Population": "28,079",
+   "Households": "9,987",
+   "AVG Income": "$58,020"
+ },
+ {
+   "ZIP Code": 91043,
+   "City": "Tujunga",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91046,
+   "City": "Verdugo City",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91066,
+   "City": "Arcadia",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91077,
+   "City": "Arcadia",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91101,
+   "City": "Pasadena",
+   "Population": "20,326",
+   "Households": "10,869",
+   "AVG Income": "$61,180"
+ },
+ {
+   "ZIP Code": 91102,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91103,
+   "City": "Pasadena",
+   "Population": "27,340",
+   "Households": "8,492",
+   "AVG Income": "$62,037"
+ },
+ {
+   "ZIP Code": 91104,
+   "City": "Pasadena",
+   "Population": "37,178",
+   "Households": "12,922",
+   "AVG Income": "$71,429"
+ },
+ {
+   "ZIP Code": 91106,
+   "City": "Pasadena",
+   "Population": "24,785",
+   "Households": "10,723",
+   "AVG Income": "$74,756"
+ },
+ {
+   "ZIP Code": 91107,
+   "City": "Pasadena",
+   "Population": "33,829",
+   "Households": "13,028",
+   "AVG Income": "$83,904"
+ },
+ {
+   "ZIP Code": 91108,
+   "City": "San Marino",
+   "Population": "13,623",
+   "Households": "4,415",
+   "AVG Income": "$134,286"
+ },
+ {
+   "ZIP Code": 91109,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91110,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91114,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91115,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91116,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91117,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91118,
+   "City": "San Marino",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91121,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91123,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91124,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91125,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91126,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91129,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91182,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91184,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+  "ZIP Code": 91185, 
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""   
+ },
+ {
+   "ZIP Code": 91188,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91189,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91199,
+   "City": "Pasadena",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91201,
+   "City": "Glendale",
+   "Population": "23,727",
+   "Households": "8,150",
+   "AVG Income": "$49,215"
+ },
+ {
+   "ZIP Code": 91202,
+   "City": "Glendale",
+   "Population": "23,388",
+   "Households": "8,879",
+   "AVG Income": "$63,037"
+ },
+ {
+   "ZIP Code": 91203,
+   "City": "Glendale",
+   "Population": "17,629",
+   "Households": "5,044",
+   "AVG Income": "$41,400"
+ },
+ {
+   "ZIP Code": 91204,
+   "City": "Glendale",
+   "Population": "17,095",
+   "Households": "5,639",
+   "AVG Income": "$42,277"
+ },
+ {
+   "ZIP Code": 91205,
+   "City": "Glendale",
+   "Population": "39,847",
+   "Households": "14,089",
+   "AVG Income": "$36,971"
+ },
+ {
+   "ZIP Code": 91206,
+   "City": "Glendale",
+   "Population": "33,586",
+   "Households": "13,261",
+   "AVG Income": "$52,277"
+ },
+ {
+   "ZIP Code": 91207,
+   "City": "Glendale",
+   "Population": "10,726",
+   "Households": "4,097",
+   "AVG Income": "$89,333"
+ },
+ {
+   "ZIP Code": 91208,
+   "City": "Glendale",
+   "Population": "16,827",
+   "Households": "6,106",
+   "AVG Income": "$103,860"
+ },
+ {
+   "ZIP Code": 91209,
+   "City": "Glendale",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91210,
+   "City": "Glendale",
+   "Population": "616",
+   "Households": "178",
+   "AVG Income": "$158,162"
+ },
+ {
+   "ZIP Code": 91214,
+   "City": "La Crescenta",
+   "Population": "31,041",
+   "Households": "10,551",
+   "AVG Income": "$87,612"
+ },
+ {
+   "ZIP Code": 91221,
+   "City": "Glendale",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91222,
+   "City": "Glendale",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91224,
+   "City": "La Crescenta",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91225,
+   "City": "Glendale",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91226,
+   "City": "Glendale",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91301,
+   "City": "Agoura Hills",
+   "Population": "26,302",
+   "Households": "9,208",
+   "AVG Income": "$114,417"
+ },
+ {
+   "ZIP Code": 91302,
+   "City": "Calabasas",
+   "Population": "26,799",
+   "Households": "9,303",
+   "AVG Income": "$114,688"
+ },
+ {
+   "ZIP Code": 91303,
+   "City": "Canoga Park",
+   "Population": "30,073",
+   "Households": "8,697",
+   "AVG Income": "$45,793"
+ },
+ {
+   "ZIP Code": 91304,
+   "City": "Canoga Park",
+   "Population": "52,059",
+   "Households": "16,532",
+   "AVG Income": "$61,339"
+ },
+ {
+   "ZIP Code": 91305,
+   "City": "Canoga Park",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91306,
+   "City": "Winnetka",
+   "Population": "46,792",
+   "Households": "13,635",
+   "AVG Income": "$61,529"
+ },
+ {
+   "ZIP Code": 91307,
+   "City": "West Hills",
+   "Population": "24,714",
+   "Households": "8,315",
+   "AVG Income": "$100,075"
+ },
+ {
+   "ZIP Code": 91308,
+   "City": "West Hills",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91309,
+   "City": "Canoga Park",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91310,
+   "City": "Castaic",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91311,
+   "City": "Chatsworth",
+   "Population": "37,208",
+   "Households": "13,425",
+   "AVG Income": "$80,593"
+ },
+ {
+   "ZIP Code": 91313,
+   "City": "Chatsworth",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91316,
+   "City": "Encino",
+   "Population": "28,763",
+   "Households": "11,911",
+   "AVG Income": "$61,539"
+ },
+ {
+   "ZIP Code": 91321,
+   "City": "Newhall",
+   "Population": "34,382",
+   "Households": "11,215",
+   "AVG Income": "$59,549"
+ },
+ {
+   "ZIP Code": 91322,
+   "City": "Newhall",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91324,
+   "City": "Northridge",
+   "Population": "28,998",
+   "Households": "9,289",
+   "AVG Income": "$61,958"
+ },
+ {
+   "ZIP Code": 91325,
+   "City": "Northridge",
+   "Population": "33,094",
+   "Households": "11,825",
+   "AVG Income": "$60,774"
+ },
+ {
+   "ZIP Code": 91326,
+   "City": "Porter Ranch",
+   "Population": "36,493",
+   "Households": "11,770",
+   "AVG Income": "$101,073"
+ },
+ {
+   "ZIP Code": 91327,
+   "City": "Northridge",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91328,
+   "City": "Northridge",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91329,
+   "City": "Northridge",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91330,
+   "City": "Northridge",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91331,
+   "City": "Pacoima",
+   "Population": "96,048",
+   "Households": "22,465",
+   "AVG Income": "$51,986"
+ },
+ {
+   "ZIP Code": 91333,
+   "City": "Pacoima",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91334,
+   "City": "Pacoima",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91335,
+   "City": "Pacoima",
+   "Population": "75,107",
+   "Households": "22,855",
+   "AVG Income": "$51,206"
+ },
+ {
+   "ZIP Code": 91337,
+   "City": "Reseda",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91340,
+   "City": "San Fernando",
+   "Population": "33,510",
+   "Households": "8,176",
+   "AVG Income": "$54,182"
+ },
+ {
+   "ZIP Code": 91341,
+   "City": "San Fernando",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91342,
+   "City": "Sylmar",
+   "Population": "92,716",
+   "Households": "23,543",
+   "AVG Income": "$60,361"
+ },
+ {
+   "ZIP Code": 91343,
+   "City": "North Hills",
+   "Population": "62,465",
+   "Households": "16,802",
+   "AVG Income": "$55,956"
+ },
+ {
+   "ZIP Code": 91344,
+   "City": "Granada Hills",
+   "Population": "51,643",
+   "Households": "16,872",
+   "AVG Income": "$79,680"
+ },
+ {
+   "ZIP Code": 91345,
+   "City": "Mission Hills",
+   "Population": "18,328",
+   "Households": "5,192",
+   "AVG Income": "$61,728"
+ },
+ {
+   "ZIP Code": 91346,
+   "City": "Mission Hills",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91351,
+   "City": "Canyon Country",
+   "Population": "33,488",
+   "Households": "10,036",
+   "AVG Income": "$68,197"
+ },
+ {
+   "ZIP Code": 91352,
+   "City": "Sun Valley",
+   "Population": "47,364",
+   "Households": "11,985",
+   "AVG Income": "$51,154"
+ },
+ {
+   "ZIP Code": 91353,
+   "City": "Sun Valley",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91354,
+   "City": "Valencia",
+   "Population": "32,766",
+   "Households": "9,522",
+   "AVG Income": "$112,524"
+ },
+ {
+   "ZIP Code": 91355,
+   "City": "Valencia",
+   "Population": "32,484",
+   "Households": "12,772",
+   "AVG Income": "$88,861"
+ },
+ {
+   "ZIP Code": 91356,
+   "City": "Tarzana",
+   "Population": "29,905",
+   "Households": "11,686",
+   "AVG Income": "$68,078"
+ },
+ {
+   "ZIP Code": 91357,
+   "City": "Tarzana",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91364,
+   "City": "Woodland Hills",
+   "Population": "25,952",
+   "Households": "10,409",
+   "AVG Income": "$92,830"
+ },
+ {
+   "ZIP Code": 91365,
+   "City": "Woodland Hills",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91367,
+   "City": "Woodland Hills",
+   "Population": "44,386",
+   "Households": "16,697",
+   "AVG Income": "$80,083"
+ },
+ {
+   "ZIP Code": 91371,
+   "City": "Woodland Hills",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91372,
+   "City": "Calabasas",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91376,
+   "City": "Agoura Hills",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91380,
+   "City": "Santa Clarita",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91381,
+   "City": "Stevenson Ranch",
+   "Population": "20,988",
+   "Households": "6,636",
+   "AVG Income": "$114,610"
+ },
+ {
+   "ZIP Code": 91382,
+   "City": "Santa Clarita",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91383,
+   "City": "Santa Clarita",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91384,
+   "City": "Castaic",
+   "Population": "23,327",
+   "Households": "6,925",
+   "AVG Income": "$101,505"
+ },
+ {
+   "ZIP Code": 91385,
+   "City": "Valencia",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91386,
+   "City": "Canyon Country",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91387,
+   "City": "Canyon Country",
+   "Population": "45,532",
+   "Households": "12,871",
+   "AVG Income": "$82,745"
+ },
+ {
+   "ZIP Code": 91390,
+   "City": "Santa Clarita",
+   "Population": "19,899",
+   "Households": "6,369",
+   "AVG Income": "$106,374"
+ },
+ {
+   "ZIP Code": 91392,
+   "City": "Sylmar",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91393,
+   "City": "North Hills",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91394,
+   "City": "Granada Hills",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91395,
+   "City": "Mission Hills",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91396,
+   "City": "Winnetka",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91401,
+   "City": "Van Nuys",
+   "Population": "40,275",
+   "Households": "14,380",
+   "AVG Income": "$50,418"
+ },
+ {
+   "ZIP Code": 91402,
+   "City": "Panorama City",
+   "Population": "72,470",
+   "Households": "18,194",
+   "AVG Income": "$37,190"
+ },
+ {
+   "ZIP Code": 91403,
+   "City": "Sherman Oaks",
+   "Population": "25,055",
+   "Households": "11,358",
+   "AVG Income": "$80,890"
+ },
+ {
+   "ZIP Code": 91404,
+   "City": "Van Nuys",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91405,
+   "City": "Van Nuys",
+   "Population": "55,295",
+   "Households": "16,256",
+   "AVG Income": "$39,013"
+ },
+ {
+   "ZIP Code": 91406,
+   "City": "Van Nuys",
+   "Population": "55,456",
+   "Households": "17,042",
+   "AVG Income": "$49,835"
+ },
+ {
+   "ZIP Code": 91407,
+   "City": "Van Nuys",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91408,
+   "City": "Van Nuys",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91409,
+   "City": "Van Nuys",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91410,
+   "City": "Van Nuys",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91411,
+   "City": "Van Nuys",
+   "Population": "24,766",
+   "Households": "9,177",
+   "AVG Income": "$45,667"
+ },
+ {
+   "ZIP Code": 91412,
+   "City": "Panorama City",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91413,
+   "City": "Sherman Oaks",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91416,
+   "City": "Encino",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91423,
+   "City": "Sherman Oaks",
+   "Population": "32,111",
+   "Households": "14,876",
+   "AVG Income": "$79,028"
+ },
+ {
+   "ZIP Code": 91426,
+   "City": "Encino",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91436,
+   "City": "Encino",
+   "Population": "15,109",
+   "Households": "5,552",
+   "AVG Income": "$135,585"
+ },
+ {
+   "ZIP Code": 91470,
+   "City": "Van Nuys",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91482,
+   "City": "Van Nuys",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91495,
+   "City": "Sherman Oaks",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91496,
+   "City": "Van Nuys",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91499,
+   "City": "Van Nuys",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91500,
+   "City": "Burbank",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91501,
+   "City": "Burbank",
+   "Population": "21,758",
+   "Households": "8,235",
+   "AVG Income": "$60,158"
+ },
+ {
+   "ZIP Code": 91502,
+   "City": "Burbank",
+   "Population": "12,140",
+   "Households": "5,001",
+   "AVG Income": "$40,057"
+ },
+ {
+   "ZIP Code": 91503,
+   "City": "Burbank",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91504,
+   "City": "Burbank",
+   "Population": "26,205",
+   "Households": "9,180",
+   "AVG Income": "$70,608"
+ },
+ {
+   "ZIP Code": 91505,
+   "City": "Burbank",
+   "Population": "32,039",
+   "Households": "13,180",
+   "AVG Income": "$76,357"
+ },
+ {
+   "ZIP Code": 91506,
+   "City": "Burbank",
+   "Population": "19,298",
+   "Households": "7,555",
+   "AVG Income": "$71,495"
+ },
+ {
+   "ZIP Code": 91507,
+   "City": "Burbank",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91508,
+   "City": "Burbank",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91510,
+   "City": "Burbank",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91521,
+   "City": "Burbank",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91522,
+   "City": "Burbank",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91523,
+   "City": "Burbank",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91526,
+   "City": "Burbank",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91601,
+   "City": "North Hollywood",
+   "Population": "41,430",
+   "Households": "15,970",
+   "AVG Income": "$48,499"
+ },
+ {
+   "ZIP Code": 91602,
+   "City": "North Hollywood",
+   "Population": "19,029",
+   "Households": "9,277",
+   "AVG Income": "$65,920"
+ },
+ {
+   "ZIP Code": 91603,
+   "City": "North Hollywood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91604,
+   "City": "Studio City",
+   "Population": "29,792",
+   "Households": "14,292",
+   "AVG Income": "$90,801"
+ },
+ {
+   "ZIP Code": 91605,
+   "City": "North Hollywood",
+   "Population": "58,287",
+   "Households": "15,357",
+   "AVG Income": "$42,254"
+ },
+ {
+   "ZIP Code": 91606,
+   "City": "North Hollywood",
+   "Population": "46,575",
+   "Households": "14,903",
+   "AVG Income": "$41,498"
+ },
+ {
+   "ZIP Code": 91608,
+   "City": "Universal City",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91609,
+   "City": "North Hollywood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91610,
+   "City": "Toluca Lake",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91611,
+   "City": "North Hollywood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91612,
+   "City": "North Hollywood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91614,
+   "City": "Studio City",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91615,
+   "City": "North Hollywood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91616,
+   "City": "North Hollywood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91617,
+   "City": "Valley Village",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91618,
+   "City": "North Hollywood",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91702,
+   "City": "Azusa",
+   "Population": "62,349",
+   "Households": "15,455",
+   "AVG Income": "$55,651"
+ },
+ {
+   "ZIP Code": 91706,
+   "City": "Baldwin Park",
+   "Population": "77,734",
+   "Households": "17,504",
+   "AVG Income": "$51,706"
+ },
+ {
+   "ZIP Code": 91711,
+   "City": "Claremont",
+   "Population": "31,058",
+   "Households": "11,868",
+   "AVG Income": "$89,161"
+ },
+ {
+   "ZIP Code": 91714,
+   "City": "City Of Industry",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91715,
+   "City": "City Of Industry",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91716,
+   "City": "City Of Industry",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91722,
+   "City": "Covina",
+   "Population": "35,528",
+   "Households": "10,079",
+   "AVG Income": "$66,512"
+ },
+ {
+   "ZIP Code": 91723,
+   "City": "Covina",
+   "Population": "18,881",
+   "Households": "6,296",
+   "AVG Income": "$60,911"
+ },
+ {
+   "ZIP Code": 91724,
+   "City": "Covina",
+   "Population": "26,434",
+   "Households": "8,508",
+   "AVG Income": "$76,065"
+ },
+ {
+   "ZIP Code": 91731,
+   "City": "El Monte",
+   "Population": "28,774",
+   "Households": "8,007",
+   "AVG Income": "$35,120"
+ },
+ {
+   "ZIP Code": 91732,
+   "City": "El Monte",
+   "Population": "62,503",
+   "Households": "14,700",
+   "AVG Income": "$41,020"
+ },
+ {
+   "ZIP Code": 91733,
+   "City": "Soouth El Monte",
+   "Population": "44,862",
+   "Households": "9,918",
+   "AVG Income": "$39,379"
+ },
+ {
+   "ZIP Code": 91734,
+   "City": "El Monte",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91735,
+   "City": "El Monte",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91740,
+   "City": "Glendora",
+   "Population": "25,554",
+   "Households": "8,376",
+   "AVG Income": "$67,063"
+ },
+ {
+   "ZIP Code": 91741,
+   "City": "Glendora",
+   "Population": "26,462",
+   "Households": "9,126",
+   "AVG Income": "$84,957"
+ },
+ {
+   "ZIP Code": 91744,
+   "City": "La Puente",
+   "Population": "83,815",
+   "Households": "18,648",
+   "AVG Income": "$58,641"
+ },
+ {
+   "ZIP Code": 91745,
+   "City": "Hacienda Heights",
+   "Population": "54,738",
+   "Households": "16,188",
+   "AVG Income": "$78,000"
+ },
+ {
+   "ZIP Code": 91746,
+   "City": "La Puente",
+   "Population": "29,709",
+   "Households": "6,743",
+   "AVG Income": "$60,178"
+ },
+ {
+   "ZIP Code": 91747,
+   "City": "La Puente",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91748,
+   "City": "Rowland Heights",
+   "Population": "47,566",
+   "Households": "13,311",
+   "AVG Income": "$58,502"
+ },
+ {
+   "ZIP Code": 91749,
+   "City": "La Puente",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91750,
+   "City": "La Verne",
+   "Population": "33,734",
+   "Households": "11,944",
+   "AVG Income": "$75,635"
+ },
+ {
+   "ZIP Code": 91754,
+   "City": "Monterey Park",
+   "Population": "34,780",
+   "Households": "11,193",
+   "AVG Income": "$57,463"
+ },
+ {
+   "ZIP Code": 91755,
+   "City": "Monterey Park",
+   "Population": "28,026",
+   "Households": "8,760",
+   "AVG Income": "$49,220"
+ },
+ {
+   "ZIP Code": 91756,
+   "City": "Monterey Park",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91765,
+   "City": "Diamond Bar",
+   "Population": "48,436",
+   "Households": "15,039",
+   "AVG Income": "$90,522"
+ },
+ {
+   "ZIP Code": 91766,
+   "City": "Pomona",
+   "Population": "73,860",
+   "Households": "17,708",
+   "AVG Income": "$49,895"
+ },
+ {
+   "ZIP Code": 91767,
+   "City": "Pomona",
+   "Population": "51,307",
+   "Households": "13,691",
+   "AVG Income": "$50,551"
+ },
+ {
+   "ZIP Code": 91768,
+   "City": "Pomona",
+   "Population": "31,482",
+   "Households": "7,885",
+   "AVG Income": "$44,859"
+ },
+ {
+   "ZIP Code": 91769,
+   "City": "Pomona",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91770,
+   "City": "Rosemead",
+   "Population": "61,827",
+   "Households": "16,588",
+   "AVG Income": "$46,729"
+ },
+ {
+   "ZIP Code": 91771,
+   "City": "Rosemead",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91772,
+   "City": "Rosemead",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91773,
+   "City": "San Dimas",
+   "Population": "32,514",
+   "Households": "11,941",
+   "AVG Income": "$77,742"
+ },
+ {
+   "ZIP Code": 91775,
+   "City": "San Gabriel",
+   "Population": "24,461",
+   "Households": "8,227",
+   "AVG Income": "$75,876"
+ },
+ {
+   "ZIP Code": 91776,
+   "City": "San Gabriel",
+   "Population": "39,550",
+   "Households": "11,776",
+   "AVG Income": "$46,746"
+ },
+ {
+   "ZIP Code": 91778,
+   "City": "San Gabriel",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91780,
+   "City": "Temple City",
+   "Population": "34,966",
+   "Households": "11,318",
+   "AVG Income": "$63,410"
+ },
+ {
+   "ZIP Code": 91788,
+   "City": "Walnut",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91789,
+   "City": "Walnut",
+   "Population": "43,248",
+   "Households": "12,891",
+   "AVG Income": "$93,301"
+ },
+ {
+   "ZIP Code": 91790,
+   "City": "West Covina",
+   "Population": "46,350",
+   "Households": "12,751",
+   "AVG Income": "$70,888"
+ },
+ {
+   "ZIP Code": 91791,
+   "City": "West Covina",
+   "Population": "34,505",
+   "Households": "10,236",
+   "AVG Income": "$71,528"
+ },
+ {
+   "ZIP Code": 91792,
+   "City": "West Covina",
+   "Population": "31,593",
+   "Households": "9,154",
+   "AVG Income": "$66,489"
+ },
+ {
+   "ZIP Code": 91793,
+   "City": "West Covina",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91802,
+   "City": "Alhambra",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91803,
+   "City": "Alhambra",
+   "Population": "30,731",
+   "Households": "9,894",
+   "AVG Income": "$56,928"
+ },
+ {
+   "ZIP Code": 91804,
+   "City": "Alhambra",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91896,
+   "City": "Alhambra",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 91899,
+   "City": "Alhambra",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 93510,
+   "City": "Acton",
+   "Population": "7,018",
+   "Households": "2,729",
+   "AVG Income": "$86,944"
+ },
+ {
+   "ZIP Code": 93532,
+   "City": "Lake Hughes",
+   "Population": "1,384",
+   "Households": "1,079",
+   "AVG Income": "$55,000"
+ },
+ {
+   "ZIP Code": 93534,
+   "City": "Lancaster",
+   "Population": "42,283",
+   "Households": "14,038",
+   "AVG Income": "$35,434"
+ },
+ {
+   "ZIP Code": 93535,
+   "City": "Lancaster",
+   "Population": "78,913",
+   "Households": "20,672",
+   "AVG Income": "$40,588"
+ },
+ {
+   "ZIP Code": 93536,
+   "City": "Lancaster",
+   "Population": "70,075",
+   "Households": "20,964",
+   "AVG Income": "$70,195"
+ },
+ {
+   "ZIP Code": 93539,
+   "City": "Lancaster",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 93543,
+   "City": "Littlerock",
+   "Population": "13,051",
+   "Households": "3,560",
+   "AVG Income": "$53,241"
+ },
+ {
+   "ZIP Code": 93544,
+   "City": "Llano",
+   "Population": "840",
+   "Households": "569",
+   "AVG Income": "$56,205"
+ },
+ {
+   "ZIP Code": 93550,
+   "City": "Palmdale",
+   "Population": "82,923",
+   "Households": "20,864",
+   "AVG Income": "$37,669"
+ },
+ {
+   "ZIP Code": 93551,
+   "City": "Palmdale",
+   "Population": "54,711",
+   "Households": "15,963",
+   "AVG Income": "$84,486"
+ },
+ {
+   "ZIP Code": 93552,
+   "City": "Palmdale",
+   "Population": "41,496",
+   "Households": "9,690",
+   "AVG Income": "$54,132"
+ },
+ {
+   "ZIP Code": 93553,
+   "City": "Pearblossom",
+   "Population": "987",
+   "Households": "816",
+   "AVG Income": "$52,639"
+ },
+ {
+   "ZIP Code": 93563,
+   "City": "Valyermo",
+   "Population": "388",
+   "Households": "103",
+   "AVG Income": "$57,417"
+ },
+ {
+   "ZIP Code": 93584,
+   "City": "Lancaster",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 93586,
+   "City": "Lancaster",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 93590,
+   "City": "Palmdale",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ },
+ {
+   "ZIP Code": 93591,
+   "City": "Palmdale",
+   "Population": "7,483",
+   "Households": "1,982",
+   "AVG Income": "$40,805"
+ },
+ {
+   "ZIP Code": 93599,
+   "City": "Palmdale",
+   "Population": "",
+   "Households": "",
+   "AVG Income": ""
+ }
+]
